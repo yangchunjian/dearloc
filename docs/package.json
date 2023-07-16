@@ -1,7 +1,7 @@
 {
   "name": "dearloc",
   "version": "2.0.0",
-  "description": "dearloc project",
+  "description": "dearloc desc",
   "license": "MIT",
   "type": "module",
   "scripts": {
