@@ -1,6 +1,5 @@
 node_modules/
 # *.drawio
-.idea
 *.drawio.bkp
 .DS_Store
 # VS Code Config file
