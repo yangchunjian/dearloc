@@ -2496,24 +2496,6 @@ packages:
       - debug
     dev: false
 
-  /@vuepress/utils@2.0.0-alpha.1:
-    resolution: {integrity: sha512-qipGA5fDAkD49m/6o6Puks+Nke4wJ5rjIDGAY2jZRbULCVVAyKBMXXhckGFvtcPCKtFKU1hP897gG3NCvYYHxg==}
-    dependencies:
-      '@types/debug': 4.1.8
-      '@types/fs-extra': 9.0.13
-      '@types/hash-sum': 1.0.0
-      '@vuepress/shared': 2.0.0-alpha.1
-      chalk: 4.1.2
-      debug: 4.3.4
-      fs-extra: 9.1.0
-      globby: 11.1.0
-      hash-sum: 2.0.0
-      ora: 5.4.1
-      upath: 1.2.0
-    transitivePeerDependencies:
-      - supports-color
-    dev: false
-
   /@vuepress/utils@2.0.0-beta.66:
     resolution: {integrity: sha512-CcgSG7ewI20iTdu1WCtQEBJiHfUgsGMg4TB4rActe9gPx8ZRoxZ8Jhr6bO3a4SU789PSBUzF7RYm9E1MtzATHg==}
     dependencies:

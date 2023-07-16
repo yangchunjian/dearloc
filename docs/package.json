@@ -18,6 +18,6 @@
   },
   "dependencies": {
     "@vuepress/plugin-search": "^1.9.9",
-    "@vuepress/utils": "2.0.0-alpha.1"
+    "@vuepress/utils": "2.0.0-beta.66"
   }
 }
