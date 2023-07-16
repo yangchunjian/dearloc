@@ -1,13 +1,13 @@
-node_modules/
+../node_modules/
 # *.drawio
 *.drawio.bkp
 .DS_Store
 # VS Code Config file
 .vscode/
 # VuePress Cache
-**/.vuepress/.cache/
+docs/src/.vuepress/.cache/
 # VuePress Temp
-**/.vuepress/.temp/
+docs/src/.vuepress/.temp/
 # VuePress Output
 dist/
 # Build files
